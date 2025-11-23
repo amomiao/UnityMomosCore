@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48580eb2c2d53444a9ea7a793ff9d29e, type: 3}
+  m_Name: PackageManagerConfig
+  m_EditorClassIdentifier: 
+  localJsonConfigPath: F:/MomosUnityPackageManager/PackageManagerConfig.MPack
+  packItemList:
+  - packName: "\u5DE5\u5177\u6838\u5FC3"
+    directoryName: ToolsCore
+    uploadRecords:
+    - dataTime: 2024/12/30 21:30:22
+      projectMessage: 20241230213022_2022.3.43f1c1_WindowsEditor_XiuXianWorld
+      directoryName: 20241230213022_2022.3.43f1c1_WindowsEditor_XiuXianWorld
+      description: "\u5305\u542B\u6846\u67B6\u3001\u5E38\u7528\u5DE5\u5177\u3001\u72EC\u7ACB\u5DE5\u5177\u7684\u7EE7\u627F\u6846\u67B6"
+    usageRecords:
+    - dataTime: 2024/12/30 21:36:55
+      projectMessage: "\u6DFB\u52A0:XiuXianWorld_2022.3.43f1c1_WindowsEditor"
+    depends1: []
+    depends2: 
+    isMomos: 1
+    hasReadme: 1
+    gitDirectoryPath: 
+    gitUrl: 
+  - packName: Log
+    directoryName: Log
+    uploadRecords: []
+    usageRecords:
+    - dataTime: 2024/11/14 03:06:16
+      projectMessage: XiuXianWorld_2022.3.43f1c1_WindowsEditor
+    - dataTime: 2024/11/14 22:53:38
+      projectMessage: "\u6DFB\u52A0:XiuXianWorld_2022.3.43f1c1_WindowsEditor"
+    - dataTime: 2024/11/14 22:56:48
+      projectMessage: "\u6DFB\u52A0:XiuXianWorld_2022.3.43f1c1_WindowsEditor"
+    - dataTime: 2024/11/15 08:50:25
+      projectMessage: "\u79FB\u9664:XiuXianWorld_2022.3.43f1c1_WindowsEditor"
+    - dataTime: 2024/11/15 08:50:33
+      projectMessage: "\u6DFB\u52A0:XiuXianWorld_2022.3.43f1c1_WindowsEditor"
+    - dataTime: 2024/11/15 09:53:35
+      projectMessage: "\u6DFB\u52A0:XiuXianWorld_2022.3.43f1c1_WindowsEditor"
+    depends1: []
+    depends2: 
+    isMomos: 1
+    hasReadme: 1
+    gitDirectoryPath: 
+    gitUrl: 
+  - packName: SpritesToMultipleSprite
+    directoryName: SpritesToMultipleSprite
+    uploadRecords:
+    - dataTime: 2024/11/14 20:07:13
+      projectMessage: 20241114160713_2022.3.43f1c1_WindowsEditor_XiuXianWorld
+      directoryName: 20241114160713_2022.3.43f1c1_WindowsEditor_XiuXianWorld
+      description: "\u591A\u5355\u56FE\u5408\u6210\u4E00\u56FE\u96C6"
+    usageRecords:
+    - dataTime: 2024/11/14 16:07:34
+      projectMessage: XiuXianWorld_2022.3.43f1c1_WindowsEditor
+    - dataTime: 2024/11/14 20:51:43
+      projectMessage: "\u79FB\u9664:XiuXianWorld_2022.3.43f1c1_WindowsEditor"
+    - dataTime: 2024/11/15 14:07:51
+      projectMessage: "\u6DFB\u52A0:XiuXianWorld_2022.3.43f1c1_WindowsEditor"
+    depends1: []
+    depends2: 
+    isMomos: 1
+    hasReadme: 1
+    gitDirectoryPath: 
+    gitUrl: 
+  - packName: PerlinNoise
+    directoryName: PerlinNoise
+    uploadRecords:
+    - dataTime: 2024/11/14 20:27:05
+      projectMessage: 20241114152705_2022.3.43f1c1_WindowsEditor_XiuXianWorld
+      directoryName: 20241114152705_2022.3.43f1c1_WindowsEditor_XiuXianWorld
+      description: "\u751F\u6210\u4E00\u5F20\u67CF\u6797\u566A\u58F0\u8D34\u56FE"
+    usageRecords:
+    - dataTime: 2024/11/14 16:07:34
+      projectMessage: XiuXianWorld_2022.3.43f1c1_WindowsEditor
+    - dataTime: 2024/11/14 20:51:43
+      projectMessage: "\u79FB\u9664:XiuXianWorld_2022.3.43f1c1_WindowsEditor"
+    - dataTime: 2024/11/15 14:07:51
+      projectMessage: "\u6DFB\u52A0:XiuXianWorld_2022.3.43f1c1_WindowsEditor"
+    depends1: []
+    depends2: 
+    isMomos: 1
+    hasReadme: 1
+    gitDirectoryPath: 
+    gitUrl: 
+  - packName: AttributeExpansion
+    directoryName: AttributeExpansion
+    uploadRecords:
+    - dataTime: 2024/11/15 14:07:33
+      projectMessage: 20241115140733_2022.3.43f1c1_WindowsEditor_XiuXianWorld
+      directoryName: 20241115140733_2022.3.43f1c1_WindowsEditor_XiuXianWorld
+      description: "\u4E00\u4E9BPropertyDrawer\u7279\u6027"
+    usageRecords:
+    - dataTime: 2024/11/15 14:07:51
+      projectMessage: "\u6DFB\u52A0:XiuXianWorld_2022.3.43f1c1_WindowsEditor"
+    depends1: []
+    depends2: 
+    isMomos: 1
+    hasReadme: 1
+    gitDirectoryPath: 
+    gitUrl: 
+  - packName: FixType
+    directoryName: "\u5B9A\u70B9\u6570"
+    uploadRecords:
+    - dataTime: 2024/11/15 16:31:09
+      projectMessage: 20241115163109_2022.3.43f1c1_WindowsEditor_XiuXianWorld
+      directoryName: 20241115163109_2022.3.43f1c1_WindowsEditor_XiuXianWorld
+      description: "\u5C0F\u6570\u536023\u4F4D\u7684\u5B9A\u70B9\u6570"
+    - dataTime: 2025/03/28 13:16:56
+      projectMessage: 20250328131656_2022.3.43f1c1_WindowsEditor_CangQingR
+      directoryName: 20250328131656_2022.3.43f1c1_WindowsEditor_CangQingR
+      description: "\u52A0\u5165\u4E86\u7A0B\u5E8F\u96C6\uFF0C\u5E76\u4E14\u5BF9\u5185\u5BB9\u8FDB\u884C\u4E86\u7FFB\u65B0"
+    usageRecords:
+    - dataTime: 2024/11/15 16:31:30
+      projectMessage: "\u6DFB\u52A0:XiuXianWorld_2022.3.43f1c1_WindowsEditor"
+    - dataTime: 2024/11/26 18:22:49
+      projectMessage: "\u6DFB\u52A0:Goetiax_2022.3.7f1_WindowsEditor"
+    depends1:
+    - Physics
+    depends2: 
+    isMomos: 1
+    hasReadme: 1
+    gitDirectoryPath: 
+    gitUrl: 
+  - packName: FixPhysics
+    directoryName: FixPhysics
+    uploadRecords:
+    - dataTime: 2025/03/28 13:15:13
+      projectMessage: 20250328131513_2022.3.43f1c1_WindowsEditor_CangQingR
+      directoryName: 20250328131513_2022.3.43f1c1_WindowsEditor_CangQingR
+      description: "\u5B9A\u70B9\u6570\u78B0\u649E"
+    usageRecords: []
+    depends1: []
+    depends2: 
+    isMomos: 1
+    hasReadme: 0
+    gitDirectoryPath: 
+    gitUrl: 
+  - packName: Linear
+    directoryName: Linear
+    uploadRecords:
+    - dataTime: 2024/11/15 22:33:47
+      projectMessage: 20241115223347_2022.3.43f1c1_WindowsEditor_XiuXianWorld
+      directoryName: 20241115223347_2022.3.43f1c1_WindowsEditor_XiuXianWorld
+      description: "\u6570\u5B66.\u56FE\u5F62.\u7EBF\u6027\u76F8\u5173"
+    usageRecords:
+    - dataTime: 2024/11/15 22:38:26
+      projectMessage: "\u6DFB\u52A0:XiuXianWorld_2022.3.43f1c1_WindowsEditor"
+    depends1: []
+    depends2: 
+    isMomos: 1
+    hasReadme: 1
+    gitDirectoryPath: 
+    gitUrl: 
+  - packName: "Track\u516C\u5F0F\u53CA\u7EC4\u4EF6"
+    directoryName: TrackStandard
+    uploadRecords:
+    - dataTime: 2024/11/16 11:16:27
+      projectMessage: 20241116111627_2022.3.43f1c1_WindowsEditor_XiuXianWorld
+      directoryName: 20241116111627_2022.3.43f1c1_WindowsEditor_XiuXianWorld
+      description: "Track\u516C\u5F0F\u53CA\u7EC4\u4EF6"
+    usageRecords: []
+    depends1: []
+    depends2: 
+    isMomos: 1
+    hasReadme: 0
+    gitDirectoryPath: 
+    gitUrl: 
+  - packName: "Track\u8FD0\u884C\u65F6"
+    directoryName: TrackViewable
+    uploadRecords:
+    - dataTime: 2024/11/16 11:17:27
+      projectMessage: 20241116111727_2022.3.43f1c1_WindowsEditor_XiuXianWorld
+      directoryName: 20241116111727_2022.3.43f1c1_WindowsEditor_XiuXianWorld
+      description: "Track\u7684\u53EF\u89C6\u5316\u4E0E\u8FD0\u884C\u65F6"
+    usageRecords: []
+    depends1: []
+    depends2: 
+    isMomos: 0
+    hasReadme: 0
+    gitDirectoryPath: 
+    gitUrl: 
+  - packName: "\u89D2\u8272Buff\u7CFB\u7EDF"
+    directoryName: RoleBuffSystem
+    uploadRecords:
+    - dataTime: 2024/11/30 10:12:51
+      projectMessage: 20241130101251_2022.3.7f1_WindowsEditor_Goetiax
+      directoryName: 20241130101251_2022.3.7f1_WindowsEditor_Goetiax
+      description: "Buff\u7CFB\u7EDF"
+    usageRecords:
+    - dataTime: 2024/11/30 10:13:18
+      projectMessage: "\u6DFB\u52A0:Goetiax_2022.3.7f1_WindowsEditor"
+    depends1: []
+    depends2: 
+    isMomos: 1
+    hasReadme: 1
+    gitDirectoryPath: 
+    gitUrl: 
+  installedPacks:
+  - "\u5DE5\u5177\u6838\u5FC3"

@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e728004897289c64483390384d441a49, type: 3}
+  m_Name: DefaultProjectViewItemConfig
+  m_EditorClassIdentifier: 
+  highlightFloderItemList:
+  - localPath: Scripts
+    color: {r: 0, g: 0.4339623, b: 0.113365725, a: 0.11764706}
+    isDrawColor: 1
+    isExist: 1
+    guid: 5b642942450709d428c410b1e3e1a2d5
+  - localPath: Scripts/Tools
+    color: {r: 0, g: 0.6132076, b: 0.1113894, a: 0.11764706}
+    isDrawColor: 1
+    isExist: 1
+    guid: c6eb95538925d3a48bf5811709140634
+  - localPath: Scenes
+    color: {r: 0, g: 0.616132, b: 0.6415094, a: 0.11764706}
+    isDrawColor: 1
+    isExist: 1
+    guid: f410ebc64ac764446b77831f9822bc2c
+  - localPath: Resources
+    color: {r: 0.8301887, g: 0.5502035, b: 0, a: 0.11764706}
+    isDrawColor: 1
+    isExist: 1
+    guid: e6e2acf6b237ad34295e82a7881bf2ee
+  - localPath: GameData
+    color: {r: 0.6132076, g: 0.032889187, b: 0, a: 0.11764706}
+    isDrawColor: 1
+    isExist: 1
+    guid: 7587ce0ea1de0214f82868aec9ea3eb0
+  - localPath: GameData/Art
+    color: {r: 0.21960784, g: 0.21960784, b: 0.21960784, a: 0.3}
+    isDrawColor: 0
+    isExist: 1
+    guid: 4d61168acb0882d4da52d07f3cc1dc84
+  - localPath: GameData/Animations
+    color: {r: 0.21960784, g: 0.21960784, b: 0.21960784, a: 0.3}
+    isDrawColor: 0
+    isExist: 1
+    guid: aa80348e91fa671459565aea80c92f36
+  - localPath: GameData/Animations/AnimClips
+    color: {r: 0.21960784, g: 0.21960784, b: 0.21960784, a: 0.29803923}
+    isDrawColor: 0
+    isExist: 1
+    guid: 81b36069614cae04d89af31b9af56194
+  - localPath: GameData/Animations/Animators
+    color: {r: 0.21960784, g: 0.21960784, b: 0.21960784, a: 0.3}
+    isDrawColor: 0
+    isExist: 1
+    guid: 1142314d58c9ed4428dbd4cc65ca47f6
+  - localPath: GameData/Audios
+    color: {r: 0.21960784, g: 0.21960784, b: 0.21960784, a: 0.3}
+    isDrawColor: 0
+    isExist: 1
+    guid: 4e65f8f9724f09140a898f6cd4ff6e17
+  - localPath: GameData/Audios/Musics
+    color: {r: 0.21960784, g: 0.21960784, b: 0.21960784, a: 0.3}
+    isDrawColor: 0
+    isExist: 1
+    guid: 826b35e2ace9d134d9771557f92a3f94
+  - localPath: GameData/Audios/Sounds
+    color: {r: 0.21960784, g: 0.21960784, b: 0.21960784, a: 0.3}
+    isDrawColor: 0
+    isExist: 1
+    guid: 24ab29c11a36f8f4a9cc53d7b0583a00
+  - localPath: GameData/Textures
+    color: {r: 0.21960784, g: 0.21960784, b: 0.21960784, a: 0.3}
+    isDrawColor: 0
+    isExist: 1
+    guid: cda4937e9cc75e64ba79a633ac2211e3
+  - localPath: GameData/Materials
+    color: {r: 0.21960786, g: 0.21960786, b: 0.21960786, a: 0.29803923}
+    isDrawColor: 0
+    isExist: 1
+    guid: 68badc47251c64e49853a5d7dc017563
